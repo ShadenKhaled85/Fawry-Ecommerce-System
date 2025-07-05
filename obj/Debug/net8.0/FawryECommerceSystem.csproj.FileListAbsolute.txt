@@ -1,0 +1,14 @@
+C:\Users\Shaden\Desktop\FawryECommerceSystem\bin\Debug\net8.0\FawryECommerceSystem.exe
+C:\Users\Shaden\Desktop\FawryECommerceSystem\bin\Debug\net8.0\FawryECommerceSystem.deps.json
+C:\Users\Shaden\Desktop\FawryECommerceSystem\bin\Debug\net8.0\FawryECommerceSystem.runtimeconfig.json
+C:\Users\Shaden\Desktop\FawryECommerceSystem\bin\Debug\net8.0\FawryECommerceSystem.dll
+C:\Users\Shaden\Desktop\FawryECommerceSystem\bin\Debug\net8.0\FawryECommerceSystem.pdb
+C:\Users\Shaden\Desktop\FawryECommerceSystem\obj\Debug\net8.0\FawryECommerceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaden\Desktop\FawryECommerceSystem\obj\Debug\net8.0\FawryECommerceSystem.AssemblyInfoInputs.cache
+C:\Users\Shaden\Desktop\FawryECommerceSystem\obj\Debug\net8.0\FawryECommerceSystem.AssemblyInfo.cs
+C:\Users\Shaden\Desktop\FawryECommerceSystem\obj\Debug\net8.0\FawryECommerceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shaden\Desktop\FawryECommerceSystem\obj\Debug\net8.0\FawryECommerceSystem.dll
+C:\Users\Shaden\Desktop\FawryECommerceSystem\obj\Debug\net8.0\refint\FawryECommerceSystem.dll
+C:\Users\Shaden\Desktop\FawryECommerceSystem\obj\Debug\net8.0\FawryECommerceSystem.pdb
+C:\Users\Shaden\Desktop\FawryECommerceSystem\obj\Debug\net8.0\FawryECommerceSystem.genruntimeconfig.cache
+C:\Users\Shaden\Desktop\FawryECommerceSystem\obj\Debug\net8.0\ref\FawryECommerceSystem.dll
